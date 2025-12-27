@@ -5,3 +5,10 @@ It is structured topic-wise for **clarity, scalability, and interview preparatio
 
 ---
 
+## 🚀 Purpose of This Repository
+
+- Strengthen **core Java fundamentals**
+- Practice **DSA problems** with clean implementations
+- Understand **OOPS concepts** with practical examples
+
+---
