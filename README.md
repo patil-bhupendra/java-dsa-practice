@@ -12,3 +12,11 @@ It is structured topic-wise for **clarity, scalability, and interview preparatio
 - Understand **OOPS concepts** with practical examples
 
 ---
+
+## 🛠️ Technologies Used
+
+- **Java**
+- Data Structures & Algorithms (Arrays, Sorting, Patterns)
+- Object-Oriented Programming
+
+---
