@@ -28,3 +28,11 @@ It is structured topic-wise for **clarity, scalability, and interview preparatio
 - This repository is **continuously evolving** as I practice more topics
 
 ---
+
+## 📈 Future Enhancements
+
+- Add advanced DSA topics (Recursion, Linked List, Stack, Queue, DP)
+- Improve code documentation and optimization
+- Include problem statements for each implementation
+
+---
