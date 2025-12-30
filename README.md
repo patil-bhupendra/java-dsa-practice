@@ -12,3 +12,27 @@ It is structured topic-wise for **clarity, scalability, and interview preparatio
 - Understand **OOPS concepts** with practical examples
 
 ---
+
+## 🛠️ Technologies Used
+
+- **Java**
+- Data Structures & Algorithms (Arrays, Sorting, Patterns)
+- Object-Oriented Programming
+
+---
+
+## 📌 Notes
+
+- Programs are written with **clarity and simplicity**
+- Time and space complexity are mentioned where applicable
+- This repository is **continuously evolving** as I practice more topics
+
+---
+
+## 📈 Future Enhancements
+
+- Add advanced DSA topics (Recursion, Linked List, Stack, Queue, DP)
+- Improve code documentation and optimization
+- Include problem statements for each implementation
+
+---
