@@ -20,6 +20,11 @@ It is structured topic-wise for **clarity, scalability, and interview preparatio
   - Arrays
   - Sorting Algorithms
   - Pattern Problems
+- **Object-Oriented Programming**
+  - Constructors
+  - Constructor Overloading & Chaining
+  - Copy Constructor
+  - Encapsulation & Class Design
 
 ---
 
