@@ -13,11 +13,13 @@ It is structured topic-wise for **clarity, scalability, and interview preparatio
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies & Concepts Used
 
 - **Java**
-- Data Structures & Algorithms (Arrays, Sorting, Patterns)
-- Object-Oriented Programming
+- **Data Structures & Algorithms**
+  - Arrays
+  - Sorting Algorithms
+  - Pattern Problems
 
 ---
 
