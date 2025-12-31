@@ -31,8 +31,9 @@ It is structured topic-wise for **clarity, scalability, and interview preparatio
 ## 📌 Notes
 
 - Programs are written with **clarity and simplicity**
-- Time and space complexity are mentioned where applicable
-- This repository is **continuously evolving** as I practice more topics
+- **Time and Space Complexity** are mentioned where applicable
+- Code follows **clean structure and naming conventions**
+- This repository is **continuously evolving** as I practice new topics
 
 ---
 
