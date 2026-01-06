@@ -15,11 +15,13 @@ It is structured **topic-wise** for **clarity, scalability, and interview prepar
 
 ## 🛠️ Technologies & Concepts Used
 
-- **Java**
-- **Data Structures & Algorithms**
-  - Arrays
-  - Sorting Algorithms
-  - Pattern Problems
+### Programming Language
+- Java
+### Data Structures & Algorithms
+- Arrays
+- Sorting Algorithms
+- Pattern Problems
+- Subarrays & Basic Problem Solving
 - **Object-Oriented Programming**
   - Constructors
   - Constructor Overloading & Chaining
