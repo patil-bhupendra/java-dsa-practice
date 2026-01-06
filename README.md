@@ -23,10 +23,10 @@ It is structured **topic-wise** for **clarity, scalability, and interview prepar
 - Pattern Problems
 - Subarrays & Basic Problem Solving
 - **Object-Oriented Programming**
-  - Constructors
-  - Constructor Overloading & Chaining
-  - Copy Constructor
-  - Encapsulation & Class Design
+- Constructors
+- Constructor Overloading & Chaining
+- Copy Constructor
+- Encapsulation & Class Design
 
 ---
 
