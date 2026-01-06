@@ -22,11 +22,27 @@ It is structured **topic-wise** for **clarity, scalability, and interview prepar
 - Sorting Algorithms
 - Pattern Problems
 - Subarrays & Basic Problem Solving
-- **Object-Oriented Programming**
+
+### 🔹 Object-Oriented Programming (OOPS)
+- Classes & Objects
 - Constructors
-- Constructor Overloading & Chaining
-- Copy Constructor
-- Encapsulation & Class Design
+- Constructor Overloading
+- Constructor Chaining (`this`, `super`)
+- Inheritance
+  - Single
+  - Multilevel
+  - Hierarchical
+  - Hybrid (conceptual)
+- Polymorphism
+  - Compile-time
+  - Runtime
+- Abstraction
+  - Abstract Classes
+  - Interfaces
+- Encapsulation
+- Shallow vs Deep Copy
+- Static Keyword
+- Packages
 
 ---
 
